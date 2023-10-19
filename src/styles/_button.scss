@@ -1,0 +1,40 @@
+/* button styles */
+button {
+    font-family: Epilogue;
+    border-radius: 6px;
+    padding-block: 14px;
+    padding-inline: 32px;
+    color: $cream-white;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.18px;
+    cursor: pointer;
+    border:none;
+    transition: all 0.2s ease-in;
+
+    &.primary {
+        background: $dark-blue;
+        &:hover {
+            background: linear-gradient(135deg, #A060FF 0%, #CB30E3 49.21%, #FFA84E 100%);
+        }
+    }
+    &.secondary {
+        background: none;
+        border: 1px solid $dark-blue;
+        color: $dark-blue;
+        &:hover{
+            background: $dark-blue;
+            color: $cream-white;
+        }
+    }
+}
+
+@media (max-width:400px){
+
+    button {
+        padding-block: 12px;
+        padding-inline: 15px;
+    }
+    
+}

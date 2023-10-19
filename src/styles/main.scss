@@ -1,0 +1,18 @@
+
+/* Abstracts */
+@import './colors';
+@import './fonts';
+@import './common';
+@import './button';
+@import './breakpoints';
+
+/* components */
+@import './headerSection';
+@import './heroSection';
+@import './bottomSection';
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
