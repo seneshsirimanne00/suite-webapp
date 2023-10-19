@@ -1,8 +1,17 @@
-# React + Vite
+# Suite - Frontend Mentor Practice Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my Frontend Mentor practice project! This project, called "Suite," is a landing page for a business solutions website. It's part of my ongoing journey to improve my web development skills.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Project Name: Suite
+- Author: senesh sirimanne
+- Frontend Mentor Challenge: (https://www.frontendmentor.io/challenges/suite-landing-page-tj_eaU-Ra)
+
+## Technologies Used
+
+- HTML
+- SCSS
+- React
+- JavaScript
+
